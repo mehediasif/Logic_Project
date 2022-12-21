@@ -1,3 +1,6 @@
+[![mehediasif's Profilator](https://profilator.deno.dev/mehediasif?v=1.0.0.alpha.4)](https://github.com/mehediasif)
+
+
 ## This code provides a C++ program that implements a Karnaugh map (k-map) minimizer with
 
 ## an algorithm that can get a solution for all k-map's types, i.e., for k-maps with any number of
